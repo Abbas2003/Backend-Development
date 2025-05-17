@@ -1,7 +1,4 @@
-### **Backend Development Repository**  
-[![GitHub License](https://img.shields.io/github/license/Abbas2003/Backend-Development?style=flat-square)](LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/Abbas2003/Backend-Development?style=flat-square)](https://github.com/Abbas2003/Backend-Development/stargazers)  
-[![GitHub Forks](https://img.shields.io/github/forks/Abbas2003/Backend-Development?style=flat-square)](https://github.com/Abbas2003/Backend-Development/network)  
+# **Backend Development Repository**⚙️    
 
 ---
 
