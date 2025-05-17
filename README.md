@@ -1,5 +1,4 @@
-# **Backend Development Repository**  
-[![GitHub License](https://img.shields.io/github/license/Abbas2003/Backend-Development?style=flat-square)](LICENSE)  
+# **Backend Development Repository**⚙️    
 
 ---
 
